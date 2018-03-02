@@ -6,7 +6,7 @@ A list of the active members of EOS Nation.
 
 ### Denis Carriere
 
-<img src="https://avatars2.githubusercontent.com/u/550895?s=460&v=4" height="150px" width="150px" style="border-radius:5px;" />
+<img src="https://avatars2.githubusercontent.com/u/550895?s=460&v=4" height="150px" width="150px" />
 
 - **Team** BP Infrastructure & DApps Team & EOS Meetup Host
 - **Social Media**
@@ -17,6 +17,8 @@ A list of the active members of EOS Nation.
 
 ### Jean Carriere
 
+<img src="https://avatars0.githubusercontent.com/u/11860891?s=460&v=4" height="150px" width="150px" />
+
 - **Team** Spokesman
 - **Social Media**
   - [LinkedIn](https://www.linkedin.com/in/jeancarriere1)
@@ -25,6 +27,8 @@ A list of the active members of EOS Nation.
   - [Telegram](https://t.me/jc0112)
 
 ### Lenny Goudreault
+
+<img src="https://avatars0.githubusercontent.com/u/36977068?s=460&v=4" height="150px" width="150px" />
 
 - **Team** Community Engagement
 - **Social Media**
