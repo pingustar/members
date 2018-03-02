@@ -8,7 +8,10 @@ A list of the active members of EOS Nation.
 
 <img src="https://avatars2.githubusercontent.com/u/550895?s=460&v=4" height="150px" width="150px" />
 
-- **Team** BP Infrastructure & DApps Team & EOS Meetup Host
+- **Team**
+  - BP Infrastructure
+  - DApps Team
+  - EOS Meetup Host
 - **Social Media**
   - [LinkedIn](https://www.linkedin.com/in/deniscarriere/)
   - [Twitter](https://twitter.com/DenisCarriere)
@@ -19,7 +22,8 @@ A list of the active members of EOS Nation.
 
 <img src="https://avatars0.githubusercontent.com/u/11860891?s=460&v=4" height="150px" width="150px" />
 
-- **Team** Spokesman
+- **Team**
+  - Spokesman
 - **Social Media**
   - [LinkedIn](https://www.linkedin.com/in/jeancarriere1)
   - [Twitter](https://twitter.com/JeanCarriere)
@@ -30,7 +34,8 @@ A list of the active members of EOS Nation.
 
 <img src="https://avatars0.githubusercontent.com/u/36977068?s=460&v=4" height="150px" width="150px" />
 
-- **Team** Community Engagement
+- **Team**
+  - Community Engagement
 - **Social Media**
   - [LinkedIn](https://www.linkedin.com/in/lenny-goudreault-4a11b915a/)
   - Twitter
