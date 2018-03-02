@@ -6,6 +6,8 @@ A list of the active members of EOS Nation.
 
 ### Denis Carriere
 
+<img src="https://avatars2.githubusercontent.com/u/550895?s=460&v=4" height="150px" width="150px" style="border-radius:5px;" />
+
 - **Team** BP Infrastructure & DApps Team & EOS Meetup Host
 - **Social Media**
   - [LinkedIn](https://www.linkedin.com/in/deniscarriere/)
