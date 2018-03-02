@@ -19,14 +19,15 @@ A list of the active members of EOS Nation.
 - **Social Media**
   - [LinkedIn](https://www.linkedin.com/in/jeancarriere1)
   - [Twitter](https://twitter.com/JeanCarriere)
-  - [Telegram]()
+  - [GitHub](https://github.com/JC0112)
+  - [Telegram](https://t.me/jc0112)
 
 ### Lenny Goudreault
 
 - **Team** Community Engagement
 - **Social Media**
-  - [LinkedIn]()
-  - [Twitter]()
-  - [GitHub]()
+  - [LinkedIn](https://www.linkedin.com/in/lenny-goudreault-4a11b915a/)
+  - Twitter
+  - [GitHub](https://github.com/ntlfua)
   - [Telegram](https://t.me/LennyGeee)
 
