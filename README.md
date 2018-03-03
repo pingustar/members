@@ -120,7 +120,19 @@ A list of the active members of EOS Nation.
 Born, raised and living in Toronto. 
 Earned a Bachelor of Journalism from Ryerson University in 2009.
 
-Woken out of slumber during an LSD trip in university, inspired to live a life dedicated to the values of Truth, Love, and F
+Woken out of slumber during an LSD trip in university, inspired to live a life dedicated to the values of Truth, Love, and Freedom. Like a lonely leaf on a branch suddenly discovering I’m attached to a beautiful tree.
+
+Worked briefly as a chase producer for Global TV.
+
+Been working in Financial Technology for the past 10 years in various capacities: customer service, sales, sales coaching, agent training, digital marketing, digital process management (LEAN green belt), and digital messaging product management (certified scrum master, certified product owner). At work I'm known for my customer focus, technology expertise, relationship building skills, and ability to bring those together to design great digital customer experiences. 
+
+I was briefly director of operations and marketing at a blockchain consulting firm, but I walked away because I wasn’t a fan of the direction they were heading in (they started specializing in private ledgers when we realized you can’t do shit on ETH - that's when I started looking for opportunities in the EOS community).
+
+In my free time, I spend a lot of time learning about Austrian Economics, technology (especially blockchain), and the philosophy of ethics. I'm by no means a developer, but I have some aptitude for coding. I coded my first website by hand in the 7th grade on a hand-me-down Mac clone. I've since lost touch with my HTML skills, but have some pretty mean wordpress game. I've dabbled with SQL at work, and have recently started learning C++.
+
+Like our friend Dan Larimer, I’d like to dedicate myself to creating free market solutions to secure life, liberty and property.
+
+I recently started the EOS Toronto meetup group and have been working with bluejays from EOS Go and some others to make that grow. I only started it about a week ago and we already have over 100 members and had our first meetup yesterday. 
 
 - **Role**
   - ⭐️EOS Meetup Organizer (Toronto)
