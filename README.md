@@ -1,24 +1,18 @@
 # EOS Nation - Members 👨‍👧‍👦
 
-A list of the active members of EOS Nation community members.
+A list of the active members of EOS Nation.
 
 - [Denis Carriere](#denis-carriere)
 - [Vincent Grenier](#vincent-grenier)
 - [Lenny Goudreault](#lenny-goudreault)
 - [Stephane Bisson](#stephane-bisson)
-- [Yves LaRose](#yves-larose)
+- [Yves La Rose](#yves-larose)
 - [Jean Carriere](#jean-carriere)
 - [Dave Rex](#dave-rex)
 - [Alexandre Bourget](#alexandre-bourget)
 - [Daniel Keyes](#daniel-keyes)
 
-## How to join?
-
-Looking to to join the EOS Nation team, do you share the same core values & beliefs that EOS Nation is behind. Please submit your candidacy for a spot to be apart of the EOS Nation via a GitHub issue. Please provide all the required information about yourself and your candidacy will be reviewed by our community.
-
-[Join the team! Submit your name](https://github.com/EOS-Nation/members/issues)
-
-## Community Members
+## Members
 
 ### Denis Carriere
 
@@ -78,16 +72,17 @@ Looking to to join the EOS Nation team, do you share the same core values & beli
   - [GitHub](https://github.com/Foutight)
   - [Telegram](https://t.me/Foutight)
 
-### Yves LaRose
+### Yves La Rose
 
 <img src="https://user-images.githubusercontent.com/550895/36930171-b4843868-1e69-11e8-9a62-ccce113534de.png" height="150px" width="150px" />
 
 - **Role**
   - ⭐️Spokesman
+  - Research & Developement
 - **Social Media**
   - Steemit
-  - LinkedIn
-  - Twitter
+  - LinkedIn (https://www.linkedin.com/in/yves-la-rose-41669034/)
+  - Twitter (https://twitter.com/YBNormlJapan)
   - [GitHub](https://github.com/YvesLaRose)
   - [Telegram](https://t.me/YBNorml)
 
