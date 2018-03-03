@@ -8,7 +8,7 @@ A list of the active members of EOS Nation.
 
 <img src="https://avatars2.githubusercontent.com/u/550895?s=460&v=4" height="150px" width="150px" />
 
-- **Team**
+- **Role**
   - BP Infrastructure
   - DApps Team
   - EOS Meetup Host (Ottawa)
@@ -22,7 +22,7 @@ A list of the active members of EOS Nation.
 
 <img src="https://media.licdn.com/dms/image/C4E03AQEKt_te86ErJQ/profile-displayphoto-shrink_200_200/0?e=1525230000&v=alpha&t=_mr2eeL-YAc5rktXo65iv1hwW887ydjOH0XkINMGgpc" height="150px" width="150px" />
 
-- **Team**
+- **Role**
   - Community Engagement
   - Event planning
   - VC
@@ -36,7 +36,7 @@ A list of the active members of EOS Nation.
 
 <img src="https://avatars0.githubusercontent.com/u/36977068?s=460&v=4" height="150px" width="150px" />
 
-- **Team**
+- **Role**
   - Community Engagement
   - Event planning
 - **Social Media**
@@ -47,7 +47,7 @@ A list of the active members of EOS Nation.
 
 ### Stephane Bisson
 
-- **Team**
+- **Role**
   - Social Media
   - Marketing
 - **Social Media**
@@ -60,7 +60,7 @@ A list of the active members of EOS Nation.
 
 <img src="https://avatars0.githubusercontent.com/u/11860891?s=460&v=4" height="150px" width="150px" />
 
-- **Team**
+- **Role**
   - Spokesman
 - **Social Media**
   - [LinkedIn](https://www.linkedin.com/in/jeancarriere1)
