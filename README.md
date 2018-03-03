@@ -6,7 +6,7 @@ A list of the active members of EOS Nation.
 - [Vincent Grenier](#vincent-grenier)
 - [Lenny Goudreault](#lenny-goudreault)
 - [Stephane Bisson](#stephane-bisson)
-- [Yves La Rose](#yves-larose)
+- [Yves La Rose](#yves-la rose)
 - [Jean Carriere](#jean-carriere)
 - [Dave Rex](#dave-rex)
 - [Alexandre Bourget](#alexandre-bourget)
