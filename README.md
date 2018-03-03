@@ -1,6 +1,6 @@
 # EOS Nation - Members 👨‍👧‍👦
 
-A list of the active members of EOS Nation.
+A list of the active members of EOS Nation community members.
 
 - [Denis Carriere](#denis-carriere)
 - [Vincent Grenier](#vincent-grenier)
@@ -12,7 +12,13 @@ A list of the active members of EOS Nation.
 - [Alexandre Bourget](#alexandre-bourget)
 - [Daniel Keyes](#daniel-keyes)
 
-## Members
+## How to join?
+
+Looking to to join the EOS Nation team, do you share the same core values & beliefs that EOS Nation is behind. Please submit your candidacy for a spot to be apart of the EOS Nation via a GitHub issue. Please provide all the required information about yourself and your candidacy will be reviewed by our community.
+
+[Join the team! Submit your name](https://github.com/EOS-Nation/members/issues)
+
+## Community Members
 
 ### Denis Carriere
 
