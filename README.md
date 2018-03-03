@@ -23,6 +23,7 @@ A list of the active members of EOS Nation.
   - ⭐️DApps Team
   - EOS Meetup Host (Ottawa)
 - **Social Media**
+  - [Steemit](https://steemit.com/@DenisCarriere)
   - [LinkedIn](https://www.linkedin.com/in/deniscarriere/)
   - [Twitter](https://twitter.com/DenisCarriere)
   - [GitHub](https://github.com/DenisCarriere)
@@ -37,6 +38,7 @@ A list of the active members of EOS Nation.
   - ⭐️Event planning
   - ⭐️VC
 - **Social Media**
+  - Steemit
   - [LinkedIn](https://www.linkedin.com/in/vincent-grenier-3565b492/)
   - [Telegram](https://t.me/Vincent9432)
   - GitHub
@@ -50,6 +52,7 @@ A list of the active members of EOS Nation.
   - Community Engagement
   - Event planning
 - **Social Media**
+  - Steemit
   - [LinkedIn](https://www.linkedin.com/in/lenny-goudreault-4a11b915a/)
   - Twitter
   - [GitHub](https://github.com/ntlfua)
@@ -63,6 +66,7 @@ A list of the active members of EOS Nation.
   - ⭐️Social Media
   - Marketing
 - **Social Media**
+  - Steemit
   - LinkedIn
   - Twitter
   - [GitHub](https://github.com/Foutight)
@@ -75,6 +79,7 @@ A list of the active members of EOS Nation.
 - **Role**
   - ⭐️Spokesman
 - **Social Media**
+  - Steemit
   - LinkedIn
   - Twitter
   - [GitHub](https://github.com/YvesLaRose)
@@ -88,6 +93,7 @@ A list of the active members of EOS Nation.
 - **Role**
   - Spokesman
 - **Social Media**
+  - Steemit
   - [LinkedIn](https://www.linkedin.com/in/jeancarriere1)
   - [Twitter](https://twitter.com/JeanCarriere)
   - [GitHub](https://github.com/JC0112)
@@ -101,6 +107,7 @@ A list of the active members of EOS Nation.
   - BP Infrastructure
   - DApps Team
 - **Social Media**
+  - Steemit
   - [LinkedIn](https://www.linkedin.com/in/alexandrebourget/)
   - [Twitter](https://twitter.com/bourgetalexndre)
   - [GitHub](https://github.com/abourget)
@@ -113,6 +120,7 @@ A list of the active members of EOS Nation.
 - **Role**
   - ⭐️EOS Meetup Organizer (Toronto)
 - **Social Media**
+  - [Steemit](https://steemit.com/@DenisCarriere)
   - LinkedIn
   - Twitter
   - [GitHub](https://github.com/chillsauce)
