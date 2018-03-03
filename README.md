@@ -2,6 +2,16 @@
 
 A list of the active members of EOS Nation.
 
+- [Denis Carriere](denis-carriere)
+- [Vincent Grenier](vincent-grenier)
+- [Lenny Goudreault](lenny-goudreault)
+- [Stephane Bisson](stephane-bisson)
+- [Jean Carriere](jean-carriere)
+- [Dave Rex](dave-rex)
+- [Yves]
+- [Alexandre Bourget](alexandre-bourget)
+- [Daniel Keyes](daniel-keyes)
+
 ## Members
 
 ### Denis Carriere
