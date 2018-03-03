@@ -78,7 +78,8 @@ A list of the active members of EOS Nation.
 
 - **Role**
   - ⭐️Spokesman
-  - Research & Developement
+  - ⭐️Research & Developement
+  - Special Advisor
 - **Social Media**
   - Steemit
   - [LinkedIn](https://www.linkedin.com/in/yves-la-rose-41669034/)
