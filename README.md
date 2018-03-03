@@ -81,8 +81,8 @@ A list of the active members of EOS Nation.
   - Research & Developement
 - **Social Media**
   - Steemit
-  - LinkedIn (https://www.linkedin.com/in/yves-la-rose-41669034/)
-  - Twitter (https://twitter.com/YBNormlJapan)
+  - [LinkedIn](https://www.linkedin.com/in/yves-la-rose-41669034/)
+  - [Twitter](https://twitter.com/YBNormlJapan)
   - [GitHub](https://github.com/YvesLaRose)
   - [Telegram](https://t.me/YBNorml)
 
