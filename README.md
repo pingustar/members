@@ -117,6 +117,11 @@ A list of the active members of EOS Nation.
 
 <img src="https://user-images.githubusercontent.com/550895/36930188-184f07b0-1e6a-11e8-8b73-3b23887e5a05.png" height="150px" width="150px" />
 
+Born, raised and living in Toronto. 
+Earned a Bachelor of Journalism from Ryerson University in 2009.
+
+Woken out of slumber during an LSD trip in university, inspired to live a life dedicated to the values of Truth, Love, and F
+
 - **Role**
   - ⭐️EOS Meetup Organizer (Toronto)
 - **Social Media**
