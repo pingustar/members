@@ -11,6 +11,7 @@ A list of the active members of EOS Nation.
 - [Dave Rex](#dave-rex)
 - [Alexandre Bourget](#alexandre-bourget)
 - [Daniel Keyes](#daniel-keyes)
+- [Jan Langheimer](#jan-langheimer)
 
 ## Members
 
@@ -144,3 +145,15 @@ I recently started the EOS Toronto meetup group and have been working with bluej
   - Twitter
   - [GitHub](https://github.com/chillsauce)
   - [Telegram](https://t.me/chillsauce)
+  
+
+### Jan Langheimer
+
+Born and raised in Germany. In Toronto since 2016. Web Developer. Ethereum Miner. DevOps. EOS Fanboy.
+
+- **Role**
+  - ⭐️EOS Toronto Meetup Co-Host 
+  - ⭐️[EOSindex.io](https://eosindex.io) Founder
+- **Social Media**
+  - [Twitter](https://twitter.com/JanLghr)
+  - [Telegram](https://t.me/pinguSTAR)
